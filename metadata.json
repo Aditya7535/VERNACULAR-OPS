@@ -1,0 +1,7 @@
+{
+  "name": "Vernacular Ops AI",
+  "description": "An interactive AI-powered operations terminal with real-time 3D visualization. Connects a React frontend to a Gemini-powered intelligence layer.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
